@@ -39,4 +39,4 @@
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 
 ## tmux Extensions
-- [awesome-tmux](https://github.com/rothgar/awesome-tmux)
+- [awesome-tmux](https://github.com/rothgar/awesome-tmux) go home
