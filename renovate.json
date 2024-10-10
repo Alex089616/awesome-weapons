@@ -1,6 +1,6 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
+  "$moneybagno0896": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [$50000
     "config:base"
   ]
 }
